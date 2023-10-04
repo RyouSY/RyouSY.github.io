@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://localhost:4000/atom.xml" rel="self"/>
+  
+  <link href="http://localhost:4000/"/>
+  <updated>2023-10-04T08:42:50.838Z</updated>
+  <id>http://localhost:4000/</id>
+  
+  <author>
+    <name>Ryou</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://localhost:4000/2023/09/25/Ryou/"/>
+    <id>http://localhost:4000/2023/09/25/Ryou/</id>
+    <published>2023-09-25T07:46:22.000Z</published>
+    <updated>2023-10-04T08:42:50.838Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><h2 id="Hello-World-1"><a href="#Hello-World-1" class="headerlink" title="Hello World"></a>Hello World</h2><h3 id="Hello-World-2"><a href="#Hello-World-2" class="headerlink" title="Hello World"></a>Hello World</h3><h4 id="Hello-World-3"><a href="#Hello-World-3" class="headerlink" title="Hello World"></a>Hello World</h4><h5 id="Hello-World-4"><a href="#Hello-World-4" class="headerlink" title="Hello World"></a>Hello World</h5>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Hello-World&quot;&gt;&lt;a href=&quot;#Hello-World&quot; class=&quot;headerlink&quot; title=&quot;Hello World&quot;&gt;&lt;/a&gt;Hello World&lt;/h1&gt;&lt;h2 id=&quot;Hello-World-1&quot;&gt;&lt;a href=&quot;#Hell</summary>
+      
+    
+    
+    
+    <category term="JavaScript" scheme="http://localhost:4000/categories/JavaScript/"/>
+    
+    
+    <category term="JavaScript" scheme="http://localhost:4000/tags/JavaScript/"/>
+    
+  </entry>
+  
+</feed>
