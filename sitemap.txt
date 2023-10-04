@@ -1,5 +1,5 @@
-http://localhost:4000/about/index.html
-http://localhost:4000/2023/09/25/Ryou/
-http://localhost:4000/
-http://localhost:4000/tags/JavaScript/
-http://localhost:4000/categories/JavaScript/
+https://ryou.vip/about/index.html
+https://ryou.vip/2023/09/25/Ryou/
+https://ryou.vip/
+https://ryou.vip/tags/JavaScript/
+https://ryou.vip/categories/JavaScript/
